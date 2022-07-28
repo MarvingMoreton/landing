@@ -1,0 +1,25 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://arthur-littm.github.io/startup-landing/images/background.png');
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero-box {
+  width: 900px;
+  margin: auto;
+}
+
+.hero-box p {
+  color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
